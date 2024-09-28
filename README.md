@@ -68,3 +68,7 @@ Call `ripples(element, 'set', name, value)` to update properties of the effect. 
 
 ### updateSize
 The effect resizes automatically when the width or height of the window changes. When the dimensions of the element changes, you need to call `ripples(element, 'updateSize')` to update the size of the effect accordingly.
+
+## License
+
+This project is licensed under [MIT](https://github.com/greenmagenta/ripples/LICENSE/) License.
