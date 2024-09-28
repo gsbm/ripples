@@ -1,4 +1,4 @@
-Ripples Plugin
+Ripples
 =====================
 
 > This library is a pure Javascript portage of [Jquery Ripples](https://github.com/sirxemic/jquery.ripples).
