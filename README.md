@@ -1,16 +1,15 @@
 Ripples
 =====================
 
+💧 Add a water ripple effect to your background using WebGL.
+
 > This library is a pure Javascript portage of [Jquery Ripples](https://github.com/sirxemic/jquery.ripples).
-
-By the powers of WebGL, add a layer of water to your HTML elements which will ripple by cursor interaction!
-
-Important: this plugin requires the WebGL extension `OES_texture_float` (and `OES_texture_float_linear` for a better effect) and works only with same-origin images (see [this link](https://developer.mozilla.org/en-US/docs/Web/HTTP/Access_control_CORS) for more information on using cross-origin requested images).
-
-Click [here](http://sirxemic.github.io/jquery.ripples/) for a demo and to see how to use it.
 
 Usage
 -----
+
+> [!WARNING]
+> This plugin requires the WebGL extension `OES_texture_float` (and `OES_texture_float_linear` for a better effect) and works only with same-origin images (see [this link](https://developer.mozilla.org/en-US/docs/Web/HTTP/Access_control_CORS) for more information on using cross-origin requested images).
 
 Include the script at the end of your page or, when you are using bundling tools such as Webpack or Browserify, simply import it into your bundle.
 
